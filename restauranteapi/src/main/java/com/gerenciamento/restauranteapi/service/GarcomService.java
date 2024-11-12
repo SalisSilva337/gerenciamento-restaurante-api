@@ -43,6 +43,7 @@ public class GarcomService {
             );
             garcom.setNome_garcom(update.getNome_garcom());
             garcom.setEmail_garcom(update.getEmail_garcom());
+            garcom.setEsta_disponivel(update.isEsta_disponivel());
         garcomRepository.save(garcom); 
     }
 
