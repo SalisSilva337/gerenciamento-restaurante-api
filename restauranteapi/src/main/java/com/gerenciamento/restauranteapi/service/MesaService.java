@@ -1,11 +1,11 @@
-package com.example.mesa.service;
+package com.gerenciamento.restauranteapi.service;
 
 import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.example.mesa.model.Mesa;
-import com.example.mesa.repository.MesaRepository;
+import com.gerenciamento.restauranteapi.model.Mesa;
+import com.gerenciamento.restauranteapi.repository.MesaRepository;
 
 @Service
 public class MesaService {

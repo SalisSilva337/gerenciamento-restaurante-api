@@ -1,4 +1,4 @@
-package com.example.mesa.model;
+package com.gerenciamento.restauranteapi.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

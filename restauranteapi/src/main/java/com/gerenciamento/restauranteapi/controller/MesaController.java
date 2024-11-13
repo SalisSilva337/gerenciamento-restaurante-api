@@ -1,4 +1,4 @@
-package com.example.mesa.controller;
+package com.gerenciamento.restauranteapi.controller;
 
 import java.util.List;
 
@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.mesa.model.Mesa;
-import com.example.mesa.service.MesaService;
+import com.gerenciamento.restauranteapi.model.Mesa;
+import com.gerenciamento.restauranteapi.service.MesaService;
 
 @RestController
 @RequestMapping("/api/v1/gerente/mesa")

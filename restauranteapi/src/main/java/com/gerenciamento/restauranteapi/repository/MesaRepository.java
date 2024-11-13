@@ -1,11 +1,11 @@
-package com.example.mesa.repository;
+package com.gerenciamento.restauranteapi.repository;
 
 import java.util.Optional;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import com.example.mesa.model.Mesa;
+import com.gerenciamento.restauranteapi.model.Mesa;
 
 @Repository
 public interface MesaRepository extends JpaRepository<Mesa, Long>{
