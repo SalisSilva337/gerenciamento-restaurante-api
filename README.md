@@ -5,7 +5,7 @@
 ![image](https://github.com/user-attachments/assets/b99b880e-a86e-4ccd-a89b-59a64c9e8841)
 
 
-
+##
 
 
 O projeto em Java consiste em um sistema de gerenciamento de restaurantes, desenvolvido com o padrão de arquitetura MVC (Model-View-Controller). A aplicação visa facilitar a administração de itens do cardápio, pedidos, mesas e garçons em um ambiente de restaurante.
