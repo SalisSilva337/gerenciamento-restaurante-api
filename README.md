@@ -1,8 +1,15 @@
+
+![image](https://github.com/user-attachments/assets/b99b880e-a86e-4ccd-a89b-59a64c9e8841)
+
+
+
+
+
 O projeto em Java consiste em um sistema de gerenciamento de restaurantes, desenvolvido com o padrão de arquitetura MVC (Model-View-Controller). A aplicação visa facilitar a administração de itens do cardápio, pedidos, mesas e garçons em um ambiente de restaurante.
 
 O sistema é dividido em quatro principais módulos:
 
-Item: Responsável por gerenciar os itens do cardápio, incluindo informações como nome, descrição, preço e categorias (como entradas, pratos principais, sobremesas, etc.). Este modelo permite adicionar, editar e excluir itens.
+Item: Responsável por gerenciar os itens do cardápio, incluindo informações como nome, descrição e preço. Este modelo permite adicionar, editar e excluir itens.
 
 Pedidos: Gerencia o processo de pedidos dos clientes, registrando quais itens foram solicitados, a mesa associada e o status do pedido (em andamento, concluído, cancelado, etc.). Ele se comunica diretamente com o modelo Item para obter as informações necessárias sobre os pratos pedidos.
 
