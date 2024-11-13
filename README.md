@@ -1,6 +1,6 @@
 # RESTAURANTE API (GERENCIAMENTO)
 
-##
+
 
 ![image](https://github.com/user-attachments/assets/b99b880e-a86e-4ccd-a89b-59a64c9e8841)
 
