@@ -5,7 +5,7 @@ import java.util.List;
 import org.springframework.stereotype.Service;
 
 import com.gerenciamento.restauranteapi.model.Garcom;
-import com.gerenciamento.restauranteapi.repo.GarcomRepository;
+import com.gerenciamento.restauranteapi.repository.GarcomRepository;
 
 @Service
 public class GarcomService {
