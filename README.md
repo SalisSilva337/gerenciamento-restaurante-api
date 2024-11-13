@@ -9,7 +9,7 @@ O projeto em Java consiste em um sistema de gerenciamento de restaurantes, desen
 
 O sistema é dividido em quatro principais módulos:
 
-Item: Responsável por gerenciar os itens do cardápio, incluindo informações como nome, descrição, preço e categorias (como entradas, pratos principais, sobremesas, etc.). Este modelo permite adicionar, editar e excluir itens.
+Item: Responsável por gerenciar os itens do cardápio, incluindo informações como nome, descrição e preço. Este modelo permite adicionar, editar e excluir itens.
 
 Pedidos: Gerencia o processo de pedidos dos clientes, registrando quais itens foram solicitados, a mesa associada e o status do pedido (em andamento, concluído, cancelado, etc.). Ele se comunica diretamente com o modelo Item para obter as informações necessárias sobre os pratos pedidos.
 
