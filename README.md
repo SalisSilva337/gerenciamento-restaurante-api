@@ -18,3 +18,4 @@ Mesas: Gerencia as mesas do restaurante, incluindo informações sobre a capacid
 Garçons: Representa os funcionários responsáveis por anotar e entregar os pedidos. O módulo permite registrar informações sobre os garçons, como nome, turno e mesas atribuídas. O controlador de Garçons também interage com os modelos Mesas e Pedidos, atribuindo tarefas e atualizando o status dos pedidos.
 
 O uso do padrão MVC organiza bem a separação de responsabilidades, tornando o código mais modular e facilitando a manutenção e evolução do sistema. A interface de usuário é simples e intuitiva, permitindo que os operadores do restaurante gerenciem de forma eficiente os itens, pedidos, mesas e garçons.
+...
